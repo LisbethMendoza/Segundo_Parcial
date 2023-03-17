@@ -24,3 +24,8 @@ Nivel 1, Copiar commits sobre la ubicacion de HEAD "git cherry-pick <commit 1>"
 Nivel 2, "pink"-> no poner esto es ignorar la copia de un commit. Para copiar y solo evitar 1 commit debes escribir "git rebase -i HEAD~<num>" 
 
 ## Commits localmente stackeados
+ Nivel 1, Crear una copia y que introduca una rama. "git rebase -i main y git rebase bugfix main"
+ 
+ Nivel 2
+ 
+ 
