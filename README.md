@@ -1,4 +1,4 @@
-# Segundo_Parcial -Lisbeth Mendoza 2021 1072- Analisis de sistema 
+# S learning branching  git (Lisbeth Mendoza 2021 1072 - Analisis de sistema)
 
 ### Introduccion
 - Nivel 1, Realizar un commit "git commit"
