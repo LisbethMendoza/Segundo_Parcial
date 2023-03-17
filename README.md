@@ -13,3 +13,10 @@ Nivel 1, head es el commit sobre el cual se esta trabjando, para poder ir a este
 Nive 2, para ver los hash, que es como la direccion del commit "git log". Para ir al commit atraver de la direccion "tipear ´Los primero 4 digitos´". Para mover 1 commit atras"^" varios "~<num>" 
  
 Nivel 3, -f reaccina una rama a un commit "git branch -f main" 
+
+Nivel 4, revertir cambios en git "git reset"->se mueve la rama hacia atras, como si no hubiera existido. "git revert" ->te crea una copia de tu git con los cambios hechos, sin borrar el anterior. 
+
+# Moviendo el trabajo por aqui
+Nivel 1, Copiar commits sobre la ubicacion de HEAD "git cherry-pick <commit 1>" 
+
+Nivel 2, "pink"-> no poner esto es ignorar la copia de un commit. Para copiar y solo evitar 1 commit debes escribir "git rebase -i HEAD~<num>" 
