@@ -1,7 +1,7 @@
 # Segundo_Parcial -Lisbeth Mendoza 2021 1072- Analisis de sistema 
 
 ### Introduccion
-Nivel 1, Realizar un commit "git commit"
+- Nivel 1, Realizar un commit "git commit"
 
 Nivel 2, Crear una nueva rama"git branch bugFix", bugfix es el nombre de tu nueva rama. Para volver a nuevo commit con el nombre de esa rama solo debo usar"git checkout bugfix; git commit"
 
