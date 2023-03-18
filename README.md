@@ -39,7 +39,7 @@
  - Nivel 7, Cuando el repositorio tiene un commit por delate del local no es posible que push se ejecute, lo que se hace es actualizar, organizar el repositorio y ejecutar los cambios. "git fetch; git rebase o/main; git pull"  y alutilizar merge no quiere decir que no mueva el trabajo, dice que integraste los cambios "git fetch; git merge o/main; git pull" y "git pull --rebase; git push" para copiar commit. copia crea y actuliza repositorio. "git pull; git push"
  - Nivel 8, Si una rama esta bloqueada y necesitamos hacer push, se crea una rama dentro de la que no puedes usar push, "git checkout -b future c2" especificando el nombre y el commit a donde queremos ir y le damos push al orifinal "git push origin future", peroooooooo antes que todo un reseteo "git reset --hard o/main" 
  
- ### :sparkles: Hasta el origen y mas alla  :sparkles:
+ ### #0969DA :sparkles: Hasta el origen y mas alla  :sparkles:
  - Nivel 1, Refresquemos un poco cómo actualizar main y guardar los cambios "git pull --rebase; git push" 
  "git fetch" actualiza el loca al del estado remoto
  "git rebase" cambia la base de tu rama
