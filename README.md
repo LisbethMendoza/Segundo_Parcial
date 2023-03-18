@@ -34,6 +34,9 @@
  - Nivel 2, para trabajar en el nuevo repositorio remoto se utiliza el comando "git checkout o/main" main es el nomnre de la rama. 
  - Nivel 3, actualiza lo que tienes en tu repositorio local al remoto "git fetch".
  - Nivel 4, "git pull" es como una liga de merge y fetch, clona y separa los commit para que no esten juntos.
-  
+ - Nivel 5, "git fakeTeamwork" simula el trabajo de otra persona. Para agregar mas commits con una rama, se utliza el mismo codigo agregando la cantidad de commits "git fakeTeamwork hola 4"
+ - Nivel 6, sube los cambios a un repositorio en especifico "git push".
+ - Nivel 7, Cuando el repositorio tiene un commit por delate del local no es posible que push se ejecute, lo que se hace es actualizar, organizar el repositorio y ejecutar los cambios. "git fetch; git rebase o/main; git pull"  y alutilizar merge no quiere decir que no mueva el trabajo, dice que integraste los cambios "git fetch; git merge o/main; git pull" y "git pull --rebase; git push" para copiar commit. copia crea y actuliza repositorio. "git pull; git push"
+ 
  
  
