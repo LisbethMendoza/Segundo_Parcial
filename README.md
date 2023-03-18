@@ -8,7 +8,7 @@
 
 ### Acelerando
 - Nivel 1, head es el commit sobre el cual se esta trabjando, para poder ir a este solo debes escribir "git checkout ´El nombre del commit que estes usando´"
-- Nive 2, para ver los hash, que es como la direccion del commit "git log". Para ir al commit atraver de la direccion "tipear ´Los primero 4 digitos´". Para mover 1 commit atras"^" varios "~<num>" 
+- Nive 2, para ver los hash, que es como la direccion del commit "git log". Para ir al commit atraver de la direccion "tipear 'Los primero 4 digitos'". Para mover 1 commit atras"^" varios "~<num>" 
 - Nivel 3, -f reaccina una rama a un commit "git branch -f main" 
 - Nivel 4, revertir cambios en git "git reset"->se mueve la rama hacia atras, como si no hubiera existido. "git revert" ->te crea una copia de tu git con los cambios hechos, sin borrar el anterior. 
 
@@ -28,5 +28,12 @@
  
  
  # Git Remotes
+
+ ### Push & Pull -- Git Remotes!
+ - Nivel 1, Creacion de repositorio remoto "git clone", es creado con una copia del tuyo local. 
+ - Nivel 2, para trabajar en el nuevo repositorio remoto se utiliza el comando "git checkout o/main" main es el nomnre de la rama. 
+ - Nivel 3, actualiza lo que tienes en tu repositorio local al remoto "git fetch".
+ - Nivel 4, "git pull" es como una liga de merge y fetch, clona y separa los commit para que no esten juntos.
+  
  
  
