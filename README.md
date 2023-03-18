@@ -37,9 +37,21 @@
  - Nivel 5, "git fakeTeamwork" simula el trabajo de otra persona. Para agregar mas commits con una rama, se utliza el mismo codigo agregando la cantidad de commits "git fakeTeamwork hola 4"
  - Nivel 6, sube los cambios a un repositorio en especifico "git push".
  - Nivel 7, Cuando el repositorio tiene un commit por delate del local no es posible que push se ejecute, lo que se hace es actualizar, organizar el repositorio y ejecutar los cambios. "git fetch; git rebase o/main; git pull"  y alutilizar merge no quiere decir que no mueva el trabajo, dice que integraste los cambios "git fetch; git merge o/main; git pull" y "git pull --rebase; git push" para copiar commit. copia crea y actuliza repositorio. "git pull; git push"
- - Nivel 8, 
+ - Nivel 8, Si una rama esta bloqueada y necesitamos hacer push, se crea una rama dentro de la que no puedes usar push, "git checkout -b future c2" especificando el nombre y el commit a donde queremos ir y le damos push al orifinal "git push origin future", peroooooooo antes que todo un reseteo "git reset --hard o/main" 
  
- ### :sparkles:   :sparkles:
+ ### :sparkles: Hasta el origen y mas alla  :sparkles:
+ - Nivel 1, Refresquemos un poco cómo actualizar main y guardar los cambios "git pull --rebase; git push" 
+ "git fetch" actualiza el loca al del estado remoto
+ "git rebase" cambia la base de tu rama
+ - Nivel 2, "git checkout" para especificar la rama que deceas, "git merge" fuciona dos ramas
+ - Nivel 3, "git pull" coge datos y actualiza el commit remoto.
+ - Nivel 4, Se guadaron cambios en las ramas con main y foo con "git push origin main:foo"
+ - Nivel 5, Se uadaron cambios en el padre de main y en foo solamente "git push origin main^:foo"
+ - Nivel 6, Se actualizo uno arriba de main con "git fetch origin main~1:foo" y merge para fucionar foo con main 
+ - Nivel 7, Guardo los cambios en main con "git push origin main" y  actualizo   el remoto afregandole un bar. "git fetch origin:bar"
+ - Nivel 8, "git pull origin bar:foo" para coger los dato y los actulizara en los originales de estas ramas. 
+ 
+ Origin: Es el repositorio remoto principal con el que se trabaja. 
  
  
  
