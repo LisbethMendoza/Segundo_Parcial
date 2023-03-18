@@ -55,7 +55,7 @@
  
 Lisbeth -ANALISIS DE SISTEMAS- 2021-1072
 
-![Imagen_1|50](https://user-images.githubusercontent.com/124735191/226139982-ffd509db-4bc1-4244-9b88-7917bc600ad3.jpg) 
-![Imagen_2|50](https://user-images.githubusercontent.com/124735191/226139899-d7df7269-f954-4a34-b042-f2aae71b5a3e.jpg)
-![Imagen_3|50](https://user-images.githubusercontent.com/124735191/226139910-66e12e4a-65df-4f2e-b0f4-6185bc0b7407.jpg)
+![Imagen_1| 50](https://user-images.githubusercontent.com/124735191/226139982-ffd509db-4bc1-4244-9b88-7917bc600ad3.jpg) 
+![Imagen_2| 50](https://user-images.githubusercontent.com/124735191/226139899-d7df7269-f954-4a34-b042-f2aae71b5a3e.jpg)
+![Imagen_3| 50](https://user-images.githubusercontent.com/124735191/226139910-66e12e4a-65df-4f2e-b0f4-6185bc0b7407.jpg)
 
