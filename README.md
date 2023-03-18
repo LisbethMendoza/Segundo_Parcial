@@ -53,5 +53,6 @@
  
  Origin: Es el repositorio remoto principal con el que se trabaja. 
  
- ![Primera imagen](/Lisbeth -ANALISIS DE SISTEMAS- 2021-1072/Imagen_1.jpg)
+Lisbeth -ANALISIS DE SISTEMAS- 2021-1072
+ ![Descripción de la imagen](/Lisbeth -ANALISIS DE SISTEMAS- 2021-1072/Imagen_1.jpg "Leyenda de la imagen")
  
