@@ -52,6 +52,7 @@
  - Nivel 8, "git pull origin bar:foo" para coger los dato y los actulizara en los originales de estas ramas. 
  
  Origin: Es el repositorio remoto principal con el que se trabaja. 
+ Holash este es el pr
  
 
 ![Imagen_1](https://user-images.githubusercontent.com/124735191/226139982-ffd509db-4bc1-4244-9b88-7917bc600ad3.jpg) 
