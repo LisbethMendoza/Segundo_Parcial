@@ -51,8 +51,9 @@
  - Nivel 7, Guardo los cambios en main con "git push origin main" y  actualizo   el remoto afregandole un bar. "git fetch origin:bar"
  - Nivel 8, "git pull origin bar:foo" para coger los dato y los actulizara en los originales de estas ramas. 
  
- Origin: Es el repositorio remoto principal con el que se trabaja. 
- 
+ Origin: Es el repositorio remoto principal con el que se trabaja
+  
+  Hacer un pull requests para guardar y que nos acepton los cambios el dueño del repositorio. 
 
 ![Imagen_1](https://user-images.githubusercontent.com/124735191/226139982-ffd509db-4bc1-4244-9b88-7917bc600ad3.jpg) 
 ![Imagen_2](https://user-images.githubusercontent.com/124735191/226139899-d7df7269-f954-4a34-b042-f2aae71b5a3e.jpg)
